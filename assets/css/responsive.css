@@ -1,0 +1,492 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .menu-shrink {
+    display: none;
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .navbar-toggler {
+    border: 3px solid #f8bf02;
+    position: absolute;
+    top: 21%;
+    right: 3%;
+  }
+  .nav-wrapper .custom-nav {
+    width: 100%;
+  }
+  .nav-wrapper .custom-nav .logo {
+    width: 75%;
+  }
+  .header_area {
+    position: relative;
+    -webkit-box-shadow: 4px 3px 5px 0 #ece7e7;
+            box-shadow: 4px 3px 5px 0 #ece7e7;
+  }
+  .hero_area {
+    height: 170vh;
+  }
+  .hero_area .hero_left {
+    top: 2%;
+    left: 5%;
+  }
+  .hero_area .hero_left h1 {
+    font-size: 34px;
+  }
+  .hero_area .hero_left p span {
+    font-size: 36px;
+  }
+  .hero_area .hero_right {
+    position: absolute;
+    top: 45%;
+    right: 0%;
+    left: 0%;
+    z-index: 9;
+  }
+  .hero_area .hero_right .hero_car_img {
+    width: 100%;
+  }
+  .hero_area .hero_right .hero_car_img .owl-dots {
+    bottom: -12%;
+    left: 35%;
+  }
+  .hero_area::before {
+    width: 100%;
+  }
+  .section_padding {
+    padding: 40px 0;
+  }
+  .about_area .about_content {
+    position: relative;
+    margin-bottom: 40px;
+  }
+  .about_area .about_img .img_2 {
+    top: 33%;
+    left: 50%;
+    width: 54%;
+  }
+  .booking_area .bok_con {
+    width: 80%;
+    margin: 0 auto;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .booking_area .bok_con .booking_text {
+    padding: 15px;
+  }
+  .booking_area .bok_con .booking_img img {
+    width: 100%;
+  }
+  .contact_area {
+    margin-top: 0;
+  }
+  .contact_area .contact_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 830px;
+  }
+  .contact_area .contact_content .contact_rignt {
+    padding: 40px;
+  }
+  .contact_area .contact_content .contact_middle {
+    padding: 40px;
+  }
+  .contact_area .contact_content .contact_left {
+    padding: 40px 10px;
+  }
+  .contact_area .contact_content .contact_left p {
+    font-size: 14px;
+  }
+  .contact_area .contact_content .contact_left p i {
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  .blog_area .blog_content .blog_text_con {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .section_titel p {
+    font-size: 14px;
+    max-width: 92%;
+  }
+  .about_page_detail .about_left .about_img {
+    margin-bottom: 30px;
+  }
+  .about_page_detail .about_left .about_img .overly_content {
+    height: 68%;
+    width: 50%;
+  }
+  .inner_banner {
+    height: 250px;
+  }
+  .inner_banner .inner_ctn {
+    top: 38%;
+  }
+  .call_area .call_content h2 {
+    font-size: 22px;
+  }
+  .address_area .box_1 {
+    border-right: 1px solid transparent;
+  }
+  .address_area .box_2 {
+    border-right: 1px solid transparent;
+  }
+  .address_area .address_box {
+    margin-bottom: 30px;
+  }
+  .contact_page_content .contact_details_left .contact_info ul li a i {
+    margin-right: 12px;
+  }
+  .contact_page_content .contact_details_left .contact_info ul li a {
+    font-size: 14px;
+  }
+  .contact_page_content .contact_details_left {
+    margin-bottom: 40px;
+  }
+  .singel_blog_area {
+    margin-bottom: 40px;
+  }
+  .singel_blog_page .singel_blog_area .singel_blog_ctn .blog_img img {
+    height: 250px;
+  }
+  .singel_blog_page .singel_blog_area .singel_blog_ctn .singel_blog_txt a h3 {
+    font-size: 20px;
+  }
+  .singel_blog_page .singel_blog_area .singel_blog_ctn .singel_blog_txt p {
+    font-size: 15px;
+  }
+  .singel_blog_page .singel_blog_area .singel_blog_ctn .singel_blog_txt .singel_blog_middle_box .middle_box_txt p {
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 0 20px;
+  }
+  .blog_page_area .blog_page .pagination {
+    margin: 30px 0 0 0px;
+  }
+  .blog_page_area .blog_page .pagination a {
+    font-size: 14px;
+    width: 23px;
+    height: 23px;
+    line-height: 19px;
+  }
+  .sidebar_area {
+    margin-top: 40px;
+  }
+  .booking_page_box .book_box_con .bok_con_box {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 458px) and (max-width: 575px) {
+  .about_area .about_img .img_2 {
+    width: 53%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .menu-shrink {
+    display: none;
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .nav-wrapper .custom-nav {
+    padding: 0px;
+  }
+  .navbar-toggler {
+    border: 3px solid #f8bf02;
+    position: absolute;
+    top: 21%;
+    right: 3%;
+  }
+  .header_area {
+    position: relative;
+    -webkit-box-shadow: 4px 3px 5px 0 #ece7e7;
+            box-shadow: 4px 3px 5px 0 #ece7e7;
+  }
+  .hero_area {
+    height: 170vh;
+  }
+  .hero_area .hero_left {
+    top: 2%;
+    left: 5%;
+  }
+  .hero_area .hero_left h1 {
+    font-size: 34px;
+  }
+  .hero_area .hero_left p span {
+    font-size: 36px;
+  }
+  .hero_area .hero_right {
+    position: absolute;
+    top: 45%;
+    right: 0%;
+    left: 0%;
+    z-index: 9;
+  }
+  .hero_area .hero_right .hero_car_img {
+    width: 100%;
+  }
+  .hero_area .hero_right .hero_car_img .owl-dots {
+    bottom: -12%;
+    left: 35%;
+  }
+  .hero_area::before {
+    width: 100%;
+  }
+  .about_area .about_content {
+    position: relative;
+    margin-bottom: 40px;
+  }
+  .about_area .about_img .img_2 {
+    top: 33%;
+    left: 50%;
+    width: 54%;
+  }
+  .booking_area .bok_con {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    width: 80%;
+    margin: 0 auto;
+  }
+  .booking_area .bok_con .booking_img img {
+    width: 100%;
+  }
+  .booking_area .bok_con .booking_text {
+    padding: 15px;
+  }
+  .contact_area {
+    margin-top: 0;
+  }
+  .contact_area .contact_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 780px;
+  }
+  .contact_area .contact_content .contact_rignt {
+    padding: 40px;
+  }
+  .contact_area .contact_content .contact_middle {
+    padding: 40px;
+  }
+  .contact_area .contact_content .contact_left {
+    padding: 40px 10px;
+  }
+  .contact_area .contact_content .contact_left p {
+    font-size: 14px;
+  }
+  .contact_area .contact_content .contact_left p i {
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  .section_padding {
+    padding: 40px 0;
+  }
+  .blog_area .blog_content .blog_text_con {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .about_page_detail .about_left .about_img {
+    margin-bottom: 30px;
+  }
+  .inner_banner {
+    height: 250px;
+  }
+  .inner_banner .inner_ctn {
+    top: 38%;
+  }
+  .section_titel p {
+    font-size: 14px;
+    max-width: 92%;
+  }
+  .call_area .call_content h2 {
+    font-size: 22px;
+  }
+  .address_area .box_1 {
+    border-right: 1px solid transparent;
+  }
+  .address_area .box_2 {
+    border-right: 1px solid transparent;
+  }
+  .address_area .address_box {
+    margin-bottom: 30px;
+  }
+  .contact_page_content .contact_details_left {
+    margin-bottom: 40px;
+  }
+  .singel_blog_area {
+    margin-bottom: 40px;
+  }
+  .blog_page_area .blog_page .blog_ctn {
+    width: 382px;
+    margin: 0 auto 40px;
+  }
+  .blog_page_area .blog_page .pagination {
+    margin: 30px 0 0 60px;
+  }
+  .sidebar_area {
+    margin-top: 40px;
+  }
+  .booking_page_box .book_box_con .bok_con_box {
+    margin-bottom: 20px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .menu-shrink {
+    display: none;
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+  .nav-wrapper .custom-nav {
+    padding: 0px;
+  }
+  .navbar-toggler {
+    border: 3px solid #f8bf02;
+    position: absolute;
+    top: 21%;
+    right: 3%;
+  }
+  .header_area {
+    position: relative;
+    -webkit-box-shadow: 4px 3px 5px 0 #ece7e7;
+            box-shadow: 4px 3px 5px 0 #ece7e7;
+  }
+  .hero_area {
+    height: 170vh;
+  }
+  .hero_area .hero_left {
+    top: 2%;
+    left: 5%;
+  }
+  .hero_area .hero_left h1 {
+    font-size: 34px;
+  }
+  .hero_area .hero_left p span {
+    font-size: 36px;
+  }
+  .hero_area .hero_right {
+    position: absolute;
+    top: 45%;
+    right: 0%;
+    left: 0%;
+    z-index: 9;
+  }
+  .hero_area .hero_right .hero_car_img {
+    width: 100%;
+  }
+  .hero_area .hero_right .hero_car_img .owl-dots {
+    bottom: -12%;
+    left: 35%;
+  }
+  .hero_area::before {
+    width: 72%;
+  }
+  .about_area .about_content {
+    position: relative;
+    margin-bottom: 40px;
+  }
+  .about_area .about_img .img_2 {
+    top: 33%;
+    left: 50%;
+    width: 54%;
+  }
+  .contact_area {
+    margin-top: 0;
+  }
+  .contact_area .contact_content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 780px;
+  }
+  .contact_area .contact_content .contact_rignt {
+    padding: 40px;
+  }
+  .contact_area .contact_content .contact_middle {
+    padding: 40px;
+  }
+  .contact_area .contact_content .contact_left {
+    padding: 40px 10px;
+  }
+  .contact_area .contact_content .contact_left p {
+    font-size: 14px;
+  }
+  .contact_area .contact_content .contact_left p i {
+    font-size: 14px;
+    margin-right: 5px;
+  }
+  .blog_area .blog_content .blog_text_con {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .section_padding {
+    padding: 40px 0;
+  }
+  .address_area ul li {
+    font-size: 14px;
+  }
+  .call_area .call_content h2 {
+    font-size: 30px;
+  }
+  .address_area .address_box address {
+    font-size: 14px;
+  }
+  .contact_page_content .contact_details_left {
+    margin-bottom: 40px;
+  }
+  .singel_blog_area {
+    margin-bottom: 40px;
+  }
+  .sidebar_area {
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+  .nav-wrapper .custom-nav .custom-navbar .nav-item a {
+    font-size: 15px;
+  }
+  .hero_area .hero_right {
+    width: 60%;
+    right: 0;
+  }
+  .hero_area .hero_right .hero_car_img {
+    width: 100%;
+  }
+  .hero_area .hero_right .hero_car_img .banner_item_ctn img {
+    width: 86%;
+  }
+  .hero_area .hero_left {
+    top: 21%;
+    left: 3%;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
